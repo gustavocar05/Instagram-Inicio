@@ -2,4 +2,4 @@
 
 ### Primeira projeto com HTML E CSS
 
-#### Firt Project using HTLM and CSS
+#### First Project using HTLM and CSS
